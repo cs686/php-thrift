@@ -1,0 +1,19 @@
+{
+    "name": "easy-php/thrift",
+    "description": "thrift for php",
+    "type": "library",
+    "autoload":{
+	"psr-4":{
+	    "Thrift\\":"Thrift"
+	}
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cs686",
+            "email": "cs686@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
